@@ -366,9 +366,9 @@ int main()
     while(ejercicio!=0);
 
 
-    printf("TP0 TERMINADO");
+    printf("\nTP0 TERMINADO\n");
 
-    printf("Versión 1");
+    printf("\nVersion 1\n");
 
     return 0;
 }
